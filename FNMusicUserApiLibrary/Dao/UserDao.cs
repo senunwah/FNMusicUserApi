@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static Dapper.SqlMapper;
 using FNMusicUserApiLibrary.ServiceResponses;
+using FNMusicUserApiLibrary.Services;
 
 namespace FNMusicUserApiLibrary.Dao
 {

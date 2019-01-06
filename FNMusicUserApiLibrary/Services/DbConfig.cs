@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FNMusicUserApiLibrary.Models
+namespace FNMusicUserApiLibrary.Services
 {
     public class DbConfig
     {
